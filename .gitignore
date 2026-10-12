@@ -33,3 +33,5 @@ _tools_frame.json
 .DS_Store
 Thumbs.db
 *.lnk
+_push_*.ps1
+_probe_schema.mjs
