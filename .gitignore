@@ -11,3 +11,25 @@ CLAUDE.md
 *.swp
 *.swo
 matlab/matlab_mcp_toolbox/mcp/+matlab_mcp/
+# ---- extension layer (zws20070309): runtime artifacts under extensions/ ----
+/extensions/jobs/
+/extensions/sweeps/
+/extensions/snippets/
+/extensions/exports/
+/extensions/logs/
+/extensions/suite_logs/
+/extensions/steps_logs/
+/extensions/checkpoint.mat
+/extensions/checkpoint_history/
+/extensions/_archive/
+*.mcp_budget
+_verify_*.mjs
+_tools_frame.json
+/matlab-mcp-server-windows-x64.exe
+/matlab-mcp-server-*.exe
+*.asv
+*.mexw64
+*.mexa64
+.DS_Store
+Thumbs.db
+*.lnk
